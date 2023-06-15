@@ -135,10 +135,15 @@ body {
    
    .name {
      position: absolute;
-     left:150px;
-     top:200px;
+     left:130px;
+     top:250px;
      color: #333;
      text-decoration: underline;
+   }
+
+   #button{
+    left:50px;
+    top:300px;
    }
    
    .back {
